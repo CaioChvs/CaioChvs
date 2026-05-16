@@ -5,7 +5,6 @@ Este repositório foi desenvolvido com o objetivo de apresentar projetos acadêm
  Conteúdo
 - Projetos em Java
 - Projetos em Python
-- Modelagem SQL
 - Página Web utilizando GitHub Pages
 
  Objetivo
