@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Skillset
 
 <p align="center">
 
@@ -26,23 +26,12 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="50"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CaioChvs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioChvs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
